@@ -4,7 +4,7 @@
 ## Preview GIFs
 Pokedex app demo.
 <p align="center">
-  <img src="resources/ARNav_preview16.gif" alt="animated"/>
+  <img src="media.demo.gif"/>
 </p>
 
 ## How
