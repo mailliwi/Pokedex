@@ -17,5 +17,5 @@ Contains error handling and [generics](https://docs.swift.org/swift-book/Languag
 ## App icon
 Made using Figma.
 <p align="center">
-  <img src="resources/ARNavQUBAppIcon.png"/>
+  <img src="Pokedex/Assets.xcassets/AppIcon.appiconset/180.png"/>
 </p>
