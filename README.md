@@ -1,5 +1,7 @@
 # Pokedex
-![](media/media.jpg)
+<p align="center">
+  <img src="media/media.png"/>
+</p>
 
 ## Preview GIF
 Pokedex app demo.
