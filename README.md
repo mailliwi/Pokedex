@@ -4,7 +4,7 @@
 ## Preview GIFs
 Pokedex app demo.
 <p align="center">
-  <img src="media.demo.gif"/>
+  <img src="media.demo.gif" alt="animated"/>
 </p>
 
 ## How
