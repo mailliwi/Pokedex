@@ -1,7 +1,7 @@
 # Pokedex
-![](media/default_view.jpg)
+![](media/media.jpg)
 
-## Preview GIFs
+## Preview GIF
 Pokedex app demo.
 <p align="center">
   <img src="media/demo.gif" alt="animated"/>
